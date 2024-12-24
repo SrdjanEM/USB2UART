@@ -1,7 +1,8 @@
 # USB2UART Programmer
 
 This project provides a simple USB to UART programmer that integrates useful features for programming microcontrollers. It is based on the FTDI FT230 chip and features USB Type-C connectivity, BOOT and EN/RESET buttons, as well as multiple connector options including a UART header and a TC2030 connector.
-![USB2UART_PROG-Photoroom](https://github.com/user-attachments/assets/e0e8dbfe-59cb-42e0-b17f-d68df42c0541)
+![USB2UART_PROG](https://github.com/user-attachments/assets/ebfa40de-044a-48c9-9924-48e86a52a525)
+
 
 ---
 
