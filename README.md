@@ -1,6 +1,7 @@
-# USB2UART Programmer with BOOT and EN/RESET Buttons
+# USB2UART Programmer
 
 This project provides a simple USB to UART programmer that integrates useful features for programming microcontrollers. It is based on the FTDI FT230 chip and features USB Type-C connectivity, BOOT and EN/RESET buttons, as well as multiple connector options including a UART header and a TC2030 connector.
+![USB2UART_PROG-Photoroom](https://github.com/user-attachments/assets/e0e8dbfe-59cb-42e0-b17f-d68df42c0541)
 
 ---
 
@@ -72,8 +73,6 @@ This project provides a simple USB to UART programmer that integrates useful fea
 ---
 
 ## Schematic Overview
-
-Include a detailed schematic diagram here or attach it to your repository to provide users with the hardware details.
 ![image](https://github.com/user-attachments/assets/ae22d539-2bf9-4187-adec-e5b2eaf938aa)
 
 ---
@@ -101,7 +100,7 @@ Include a detailed schematic diagram here or attach it to your repository to pro
 - Ensure the target device’s UART voltage levels are compatible with the FT230’s logic level (typically 3.3V).
 - The TC2030 connector is designed for Tag-Connect cables, making it ideal for quick and reliable programming connections without the need for soldering headers.
 - Use quality USB Type-C cables to ensure stable power and data transmission.
-- USB2UART device also has a 3.3V voltage regulator to allow for powering of devices if they are not 5V compatible.
+- **USB2UART device also has a 3.3V voltage regulator to allow for powering of devices if they are not 5V compatible.**
 
 ---
 
