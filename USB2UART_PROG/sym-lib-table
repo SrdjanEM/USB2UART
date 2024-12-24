@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB2UART")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Symbols/USB2UART.kicad_sym")(options "")(descr ""))
+)
